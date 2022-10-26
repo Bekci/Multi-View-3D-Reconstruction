@@ -24,3 +24,8 @@ A sample output of our model:
 The code for the original paper is based on [RBirkeland's code](https://github.com/RBirkeland/MVCNN-PyTorch) and
 our implementation for model with the attention is very similar to the work [Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction](https://arxiv.org/abs/1808.00758).  
 
+### Team
+
+[Onat Şahin](https://github.com/onatsahin)
+
+Sylvian Hofs
